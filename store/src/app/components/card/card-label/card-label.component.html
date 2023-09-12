@@ -1,0 +1,9 @@
+<div class="card-label-container">
+	<div *ngIf="(consoleTypeOne !== '' && consoleTypeTwo !== '') || (consoleTypeOne !== '' && consoleTypeTwo === '')" class="card-label-console-one">
+	  <p>{{ consoleTypeOne }}</p>
+	</div>
+	<div *ngIf="(consoleTypeTwo !== '' && consoleTypeOne !== '') || (consoleTypeTwo !== '' && consoleTypeOne === '')" class="card-label-console-two">
+	  <p>{{ consoleTypeTwo }}</p>
+	</div>
+  </div>
+  

@@ -1,0 +1,14 @@
+.card-pricing-container {
+    position: absolute;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    right: 0;
+    bottom: 0;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;  
+    background-color: #3636367a;  
+    padding: 2px;
+    border-radius: 3px;
+}

@@ -1,0 +1,30 @@
+.card-label-console-one {
+    position: absolute;
+    margin-bottom: 10px;
+    margin-right: 10px;
+   left: 60px;
+    bottom: 0;
+    color: white;
+    font-weight: 500;
+    font-size: 13px;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 3px;
+    background-color: #3636367a;
+  }
+  
+  .card-label-console-two {
+    position: absolute;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    left: 15px; 
+    bottom: 0;
+    color: white;
+    font-weight: 500;
+    font-size: 13px;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 3px;
+    background-color: #3636367a;
+  }
+  
